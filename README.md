@@ -1,2 +1,2 @@
-# Amazon-S3---Static-Website-Hosting
+# Amazon-S3-Static-Website-Hosting
 Advanced Cloud Computing
