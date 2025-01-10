@@ -17,7 +17,7 @@ Ever thought about making your resume stand out by hosting it as a webpage? 🌐
 ### **Step 2: Create an S3 Bucket**
 1. **Login to AWS Management Console** and navigate to the [S3 service](https://aws.amazon.com/s3/).
 2. Click **"Create bucket"**.
-3. Enter a unique **bucket name** (e.g., `dumindu-cv`).
+3. Enter a unique **bucket name** (e.g., `s3udara-cv`).
 4. Choose a region closest to you.
 5. Uncheck **"Block all public access"** for website hosting purposes.
 6. Acknowledge the warning and click **"Create bucket"**.
